@@ -5,7 +5,7 @@ We conducted a field study at a K-12 private school in the suburbs of Melbourne,
 # Download the Dataset
 https://rmit.figshare.com/articles/dataset/In-Gauge_and_En-Gage_Datasets/14578908
 # Bibtex
-If you want to use our En-Gage dataset, please citing:
+If you want to use our En-Gage dataset, please cite:
 ```
 @misc{gao_marschall_burry_watkins_salim_2021, 
 title={In-Gauge and En-Gage Datasets}, 
