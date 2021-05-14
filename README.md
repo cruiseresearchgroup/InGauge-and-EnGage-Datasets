@@ -13,6 +13,8 @@ Second, we tracked 23 students and 6 teachers in a 4-week cross-sectional study 
 # Citation
 Please cite the following papers if the dataset is used in a publication:
 
-[1] Gao, Nan; Marschall, Max; Burry, Jane; Watkins, Simon; Salim, Flora (2021): In-Gauge and En-Gage Datasets. RMIT University. Dataset. https://doi.org/10.25439/rmt.14578908.v2 
+[1] Gao, N., Shao, W., Rahaman, M. S., & Salim, F. D. (2020). n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-26.
 
-[2] Gao, N., Shao, W., Rahaman, M. S., & Salim, F. D. (2020). n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-26.
+[2] Gao, Nan; Marschall, Max; Burry, Jane; Watkins, Simon; Salim, Flora (2021): In-Gauge and En-Gage Datasets. RMIT University. Dataset. https://doi.org/10.25439/rmt.14578908.v2 
+
+
