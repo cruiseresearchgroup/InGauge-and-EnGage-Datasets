@@ -11,17 +11,8 @@ First, a 5-month longitudinal field study In-Gauge using two outdoor weather sta
 Second, we tracked 23 students and 6 teachers in a 4-week cross-sectional study En-Gage, **using wearable sensors to log physiological data, as well as daily surveys to query the occupants' thermal comfort, learning engagement, emotions and seating behaviours**. For **privacy** concerns, we removed data that may reveal participants' identities. This is the first publicly available dataset studying the daily behaviours and engagement of high school students using heterogeneous methods. The combined data could be used to analyse the relationships between indoor climates and mental states of school students.
 
 # Citation
-Please cite the following paper if the dataset is used in a publication:
-```
-@misc{gao_marschall_burry_watkins_salim_2021, 
-title={In-Gauge and En-Gage Datasets}, 
-url={https://rmit.figshare.com/articles/dataset/In-Gauge_and_En-Gage_Datasets/14578908/1}, 
-DOI={10.25439/rmt.14578908.v1}, 
-publisher={RMIT University}, 
-author={Gao, Nan and Marschall, Max and Burry, Jane and Watkins, Simon and Salim, Flora}, 
-year={2021}, 
-month={May}} 
-```
+Please cite the following papers if the dataset is used in a publication:
 
-# Published Papers using the dataset
-[1] Gao, N., Shao, W., Rahaman, M. S., & Salim, F. D. (2020). n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-26.
+[1] Gao, Nan; Marschall, Max; Burry, Jane; Watkins, Simon; Salim, Flora (2021): In-Gauge and En-Gage Datasets. RMIT University. Dataset. https://doi.org/10.25439/rmt.14578908.v2 
+
+[2] Gao, N., Shao, W., Rahaman, M. S., & Salim, F. D. (2020). n-Gage: Predicting in-class Emotional, Behavioural and Cognitive Engagement in the Wild. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-26.
